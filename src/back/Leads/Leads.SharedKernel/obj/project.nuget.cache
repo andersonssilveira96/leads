@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZQPciYivEMxWFM6CBE1zWljv+Q83fU8BUO92HsBkggSHymUrqonQrIUAScg8yvk66D4v150S5iPeu/yTvlsQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ander\\Desktop\\Teste\\leads\\src\\back\\Leads\\Leads.SharedKernel\\Leads.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
