@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Leads.Application\Leads.Application.csproj" />
+    <ProjectReference Include="..\Leads.Infra.CrossCutting\Leads.Infra.CrossCutting.csproj" />
     <ProjectReference Include="..\Leads.Infra.Data\Leads.Infra.Data.csproj" />
   </ItemGroup>
 

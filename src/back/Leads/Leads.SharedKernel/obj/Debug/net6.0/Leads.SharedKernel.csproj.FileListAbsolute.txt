@@ -1,0 +1,12 @@
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\bin\Debug\net6.0\Leads.SharedKernel.deps.json
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\bin\Debug\net6.0\Leads.SharedKernel.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\bin\Debug\net6.0\Leads.SharedKernel.pdb
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\obj\Debug\net6.0\Leads.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\obj\Debug\net6.0\Leads.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\obj\Debug\net6.0\Leads.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\obj\Debug\net6.0\Leads.SharedKernel.AssemblyInfo.cs
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\obj\Debug\net6.0\Leads.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\obj\Debug\net6.0\Leads.SharedKernel.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\obj\Debug\net6.0\refint\Leads.SharedKernel.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\obj\Debug\net6.0\Leads.SharedKernel.pdb
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.SharedKernel\obj\Debug\net6.0\ref\Leads.SharedKernel.dll

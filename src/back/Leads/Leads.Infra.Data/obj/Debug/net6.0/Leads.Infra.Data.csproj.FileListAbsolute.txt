@@ -1,0 +1,17 @@
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\bin\Debug\net6.0\Leads.Infra.Data.deps.json
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\bin\Debug\net6.0\Leads.Infra.Data.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\bin\Debug\net6.0\Leads.Infra.Data.pdb
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\bin\Debug\net6.0\Leads.Domain.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\bin\Debug\net6.0\Leads.SharedKernel.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\bin\Debug\net6.0\Leads.Domain.pdb
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\bin\Debug\net6.0\Leads.SharedKernel.pdb
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\Leads.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\Leads.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\Leads.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\Leads.Infra.Data.AssemblyInfo.cs
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\Leads.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\Leads.Infra.Data.csproj.CopyComplete
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\Leads.Infra.Data.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\refint\Leads.Infra.Data.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\Leads.Infra.Data.pdb
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Infra.Data\obj\Debug\net6.0\ref\Leads.Infra.Data.dll

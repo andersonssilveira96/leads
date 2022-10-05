@@ -1,5 +1,6 @@
 ﻿using Leads.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace Leads.Infra.Data.Context
 {
@@ -10,5 +11,10 @@ namespace Leads.Infra.Data.Context
         }
 
         public DbSet<Lead> Leads { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        }
     }
 }

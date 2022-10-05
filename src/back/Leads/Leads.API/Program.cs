@@ -1,3 +1,4 @@
+using Leads.Infra.CrossCutting.IoC;
 using Leads.Infra.Data.Context;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddMediatR(typeof(Program));
+builder.Services.AddInjection();
 
 var connectionString = builder.Configuration.GetConnectionString("Database");
 

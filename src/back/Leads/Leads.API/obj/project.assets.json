@@ -730,6 +730,20 @@
           "bin/placeholder/Leads.Domain.dll": {}
         }
       },
+      "Leads.Infra.CrossCutting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Leads.Infra.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Leads.Infra.CrossCutting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Leads.Infra.CrossCutting.dll": {}
+        }
+      },
       "Leads.Infra.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2099,6 +2113,11 @@
       "path": "../Leads.Domain/Leads.Domain.csproj",
       "msbuildProject": "../Leads.Domain/Leads.Domain.csproj"
     },
+    "Leads.Infra.CrossCutting/1.0.0": {
+      "type": "project",
+      "path": "../Leads.Infra.CrossCutting/Leads.Infra.CrossCutting.csproj",
+      "msbuildProject": "../Leads.Infra.CrossCutting/Leads.Infra.CrossCutting.csproj"
+    },
     "Leads.Infra.Data/1.0.0": {
       "type": "project",
       "path": "../Leads.Infra.Data/Leads.Infra.Data.csproj",
@@ -2113,6 +2132,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Leads.Application >= 1.0.0",
+      "Leads.Infra.CrossCutting >= 1.0.0",
       "Leads.Infra.Data >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.9",
@@ -2148,6 +2168,9 @@
           "projectReferences": {
             "C:\\Users\\ander\\Desktop\\Teste\\leads\\src\\back\\Leads\\Leads.Application\\Leads.Application.csproj": {
               "projectPath": "C:\\Users\\ander\\Desktop\\Teste\\leads\\src\\back\\Leads\\Leads.Application\\Leads.Application.csproj"
+            },
+            "C:\\Users\\ander\\Desktop\\Teste\\leads\\src\\back\\Leads\\Leads.Infra.CrossCutting\\Leads.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\ander\\Desktop\\Teste\\leads\\src\\back\\Leads\\Leads.Infra.CrossCutting\\Leads.Infra.CrossCutting.csproj"
             },
             "C:\\Users\\ander\\Desktop\\Teste\\leads\\src\\back\\Leads\\Leads.Infra.Data\\Leads.Infra.Data.csproj": {
               "projectPath": "C:\\Users\\ander\\Desktop\\Teste\\leads\\src\\back\\Leads\\Leads.Infra.Data\\Leads.Infra.Data.csproj"

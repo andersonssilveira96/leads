@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\bin\Debug\net6.0\Leads.Domain.deps.json
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\bin\Debug\net6.0\Leads.Domain.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\bin\Debug\net6.0\Leads.Domain.pdb
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\bin\Debug\net6.0\Leads.SharedKernel.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\bin\Debug\net6.0\Leads.SharedKernel.pdb
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\Leads.Domain.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\Leads.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\Leads.Domain.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\Leads.Domain.AssemblyInfo.cs
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\Leads.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\Leads.Domain.csproj.CopyComplete
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\Leads.Domain.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\refint\Leads.Domain.dll
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\Leads.Domain.pdb
+C:\Users\ander\Desktop\Teste\leads\src\back\Leads\Leads.Domain\obj\Debug\net6.0\ref\Leads.Domain.dll
